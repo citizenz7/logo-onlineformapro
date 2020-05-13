@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+
+body {
+  background-color: black;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
+
+.center{
+  justify-content: center;
+  align-items: center;
+}
+
+.clear{
+  margin-top: -25px;
+}
+
+#first {
+  font-family: 'Prompt', sans-serif;
+  font-size: 120px;
+  font-weight: bold;
+  color: #D21242;
+  letter-spacing: 7px;
+}
+
+#second {
+  font-family: 'Prompt', sans-serif;
+  font-size: 120px;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 7px;
+}
+
+#forma {
+  font-family: 'Rubik', sans-serif;
+  font-size: 38px;
+  letter-spacing: 38px;
+  color: white;
+}
